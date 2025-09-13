@@ -1,0 +1,138 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\start_with_code\\ElementWar\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|e:\\start_with_code\\elementwar\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\player\\states\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playermovestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\player\\states\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\states\\playeridlestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\base\\playerstatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\base\\playerstatebase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\utils\\monomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\monomanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|E:\\start_with_code\\ElementWar\\assets\\scripts\\utils\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42DAC65A-F5B7-944D-041A-A19806787C9E}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\utils\\statemachine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\PlayerController.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T02:02:57.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerMoveState.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\States\\PlayerMoveState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\States\\PlayerMoveState.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\States\\PlayerMoveState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\States\\PlayerMoveState.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAmwDgAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T01:58:54.339Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerIdleState.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\States\\PlayerIdleState.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\States\\PlayerIdleState.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\States\\PlayerIdleState.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\States\\PlayerIdleState.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABAAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:24:12.283Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MonoManager.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Utils\\MonoManager.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Utils\\MonoManager.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Utils\\MonoManager.cs",
+              "RelativeToolTip": "Assets\\scripts\\Utils\\MonoManager.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAowB8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:20:07.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PlayerStateBase.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\base\\PlayerStateBase.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\base\\PlayerStateBase.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\base\\PlayerStateBase.cs",
+              "RelativeToolTip": "Assets\\scripts\\base\\PlayerStateBase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-06T13:18:06.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlayerModel.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\PlayerModel.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Player\\PlayerModel.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Player\\PlayerModel.cs",
+              "RelativeToolTip": "Assets\\scripts\\Player\\PlayerModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T12:49:11.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "StateMachine.cs",
+              "DocumentMoniker": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Utils\\StateMachine.cs",
+              "RelativeDocumentMoniker": "Assets\\scripts\\Utils\\StateMachine.cs",
+              "ToolTip": "E:\\start_with_code\\ElementWar\\Assets\\scripts\\Utils\\StateMachine.cs",
+              "RelativeToolTip": "Assets\\scripts\\Utils\\StateMachine.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwCYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T15:41:49.92Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
